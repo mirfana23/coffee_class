@@ -5,5 +5,6 @@ Articles on coffee history, brewing, sensory evaluation and espresso.
 ## Appreciation
 
 - [Coffee’s Journey Around the World](01-appreciation.md) — origins, global migration and the spread of coffee culture, with maps and sources.
+- [Coffee Plant Taxonomy: Arabica, Robusta, and Their Ancestry](01b-coffee-taxonomy.md) — plant classification, hybrid ancestry, and an illustrated comparison of Arabica and Robusta.
 
-Further articles will cover coffee taxonomy, manual brewing, cupping, and espresso and milk preparation.
+Further articles will cover manual brewing, cupping, and espresso and milk preparation.
