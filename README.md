@@ -8,4 +8,8 @@ Articles on coffee history, brewing, sensory evaluation and espresso.
 - [Coffee Plant Taxonomy: Arabica, Robusta, and Their Ancestry](01b-coffee-taxonomy.md) — plant classification, hybrid ancestry, and an illustrated comparison of Arabica and Robusta.
 - [Coffee Processing: From Ripe Cherry to Green Bean](01c-coffee-processing.md) — harvesting, natural, honey and washed processing, primary defects, and decaffeination, with explanatory diagrams.
 
-Further articles will cover manual brewing, cupping, and espresso and milk preparation.
+## Cupping
+
+- [Coffee Cupping: Understanding Taste, Aroma, and Coffee Value](02-cupping.md) — sensory foundations, the SCA Coffee Value Assessment, cupping practice, and acid and aroma recognition, with diagrams and official forms.
+
+Further articles will cover manual brewing and espresso and milk preparation.
